@@ -26,6 +26,7 @@
         <module>spring-boot-mongodb</module>
         <module>spring-boot-multiple-databases</module>
         <module>spring-boot-okta</module>
+        <module>spring-boot-rest-template</module>
         <module>spring-boot-scheduler</module>
         <module>spring-boot-swagger</module>
     </modules>
