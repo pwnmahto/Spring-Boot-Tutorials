@@ -1,0 +1,46 @@
+{
+	"info": {
+		"_postman_id": "5d01752d-0978-4c39-a4e6-0dcce408a997",
+		"name": "SpringBootHelloWorld",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "1263761"
+	},
+	"item": [
+		{
+			"name": "helloWorld",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "localhost:9001/helloWorld",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"helloWorld"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "index",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "localhost:9001/index",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"index"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
